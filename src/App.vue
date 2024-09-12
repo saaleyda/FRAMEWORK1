@@ -7,9 +7,9 @@ const currentImageIndex = ref(0); // Inisialisasi index gambar yang tampil saat 
 
 // Daftar gambar untuk carousel
 const images = [
-  'https://via.placeholder.com/400x200?text=Image+1',
-  'https://via.placeholder.com/400x200?text=Image+2',
-  'https://via.placeholder.com/400x200?text=Image+3'
+  'https://asset.kompas.com/crops/jzbvIRCoYBVo_Jp9e8vk9U1bdj4=/0x0:1000x667/750x500/data/photo/2023/10/25/653886850f07d.jpg',
+  'https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1689721009/ewegqejis339ztowz6au.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1YEPIWvnIzWldgJX9x0RzyKw63srwfdstw&s'
 ];
 
 function increment() {
